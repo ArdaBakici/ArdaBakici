@@ -15,7 +15,7 @@
 <a href="https://github.com/ArdaBakici/parkingintech-client">Parking-in.tech client</a>  
 <a href="https://github.com/ArdaBakici/Teknofest-SYZ-2022">Teknofest Artificial Intelligence in Healthcare 2022 Winner</a>  
 <a href="https://github.com/ArdaBakici/Teknofest-UYZ-2022">Teknofest Artificial Intelligence in Transportation 9th place</a>  
-<a href="https://github.com/ArdaBakici/Teknofest-SYZ-2021">Teknofest Artificial Intelligence in Healthcare 2021 Finalistr</a>  
+<a href="https://github.com/ArdaBakici/Teknofest-SYZ-2021">Teknofest Artificial Intelligence in Healthcare 2021 Finalist</a>  
 <a href="https://github.com/ArdaBakici/Competitive-Programming">Competitive-Programming</a>  
 <br>
   
